@@ -28,7 +28,7 @@
 */
 
 .white {
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 
@@ -143,7 +143,7 @@ figure img {
     padding-left: 20px;
     top: -20px;
     right: 8px;
-    color: #41cb52;
+    /*color: #41cb52; */
 }
 
 .item-box-blog-date span {
